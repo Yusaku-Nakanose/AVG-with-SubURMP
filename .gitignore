@@ -1,1 +1,4 @@
 *.pth
+tseandtsl/checkpoints/
+withclap/checkpoints/
+tseandtsl/checkpoints/ withclap/checkpoints/
